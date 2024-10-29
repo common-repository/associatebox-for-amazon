@@ -1,0 +1,366 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Associatebox\n"
+"POT-Creation-Date: 2016-04-28 16:04+0100\n"
+"PO-Revision-Date: 2016-04-28 16:05+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: associate_box.php:67
+msgid "AssociateBox"
+msgstr ""
+
+#: associate_box.php:86
+msgid "<b>Title for Widget on this Page:</b>"
+msgstr ""
+
+#: associate_box.php:95
+msgid "<b>Show results in widget or under the content?</b> "
+msgstr ""
+
+#: associate_box.php:103
+msgid "Widget "
+msgstr ""
+
+#: associate_box.php:104
+msgid "Under the content "
+msgstr ""
+
+#: associate_box.php:108
+msgid "<b>Shuffle results?</b> "
+msgstr ""
+
+#: associate_box.php:116
+msgid "Yes "
+msgstr ""
+
+#: associate_box.php:117
+msgid "No "
+msgstr ""
+
+#: associate_box.php:126
+msgid "<b>Amazon Server:</b>"
+msgstr ""
+
+#: associate_box.php:156
+msgid "<b>No Amazon-Articles</b>"
+msgstr ""
+
+#: associate_box.php:166
+msgid "<b>Search for ASINs:</b>"
+msgstr ""
+
+#: associate_box.php:182
+msgid "<b>Amazon-Asins, separated by commas:</b>"
+msgstr ""
+
+#: associate_box.php:188 associate_box.php:311 associate_box.php:408
+#: associate_box.php:461
+msgid "<b>Amount Articles shown:</b>"
+msgstr ""
+
+#: associate_box.php:219
+msgid "<b>Items in BrowseNode:</b>"
+msgstr ""
+
+#: associate_box.php:236
+msgid "BrowseNodeID"
+msgstr ""
+
+#: associate_box.php:240 associate_box.php:350
+msgid "Books"
+msgstr ""
+
+#: associate_box.php:241 associate_box.php:351
+msgid "DVD"
+msgstr ""
+
+#: associate_box.php:242 associate_box.php:352
+msgid "Music"
+msgstr ""
+
+#: associate_box.php:243 associate_box.php:353
+msgid "VideoGames"
+msgstr ""
+
+#: associate_box.php:244 associate_box.php:354
+msgid "Electronics"
+msgstr ""
+
+#: associate_box.php:245 associate_box.php:355
+msgid "Automotive"
+msgstr ""
+
+#: associate_box.php:246 associate_box.php:356
+msgid "Baby"
+msgstr ""
+
+#: associate_box.php:247 associate_box.php:357
+msgid "Tools"
+msgstr ""
+
+#: associate_box.php:248 associate_box.php:358
+msgid "PcHardware"
+msgstr ""
+
+#: associate_box.php:249 associate_box.php:359
+msgid "HealthPersonalCare"
+msgstr ""
+
+#: associate_box.php:250 associate_box.php:360
+msgid "Kitchen"
+msgstr ""
+
+#: associate_box.php:251 associate_box.php:361
+msgid "Software"
+msgstr ""
+
+#: associate_box.php:252 associate_box.php:362
+msgid "Toys"
+msgstr ""
+
+#: associate_box.php:253 associate_box.php:363
+msgid "Beauty"
+msgstr ""
+
+#: associate_box.php:254 associate_box.php:364
+msgid "MP3Downloads"
+msgstr ""
+
+#: associate_box.php:255 associate_box.php:365
+msgid "MusicalInstruments"
+msgstr ""
+
+#: associate_box.php:256 associate_box.php:366
+msgid "Classical"
+msgstr ""
+
+#: associate_box.php:257 associate_box.php:367
+msgid "Grocery"
+msgstr ""
+
+#: associate_box.php:258 associate_box.php:368
+msgid "Watches"
+msgstr ""
+
+#: associate_box.php:259 associate_box.php:369
+msgid "Magazines"
+msgstr ""
+
+#: associate_box.php:260 associate_box.php:370
+msgid "Shoes"
+msgstr ""
+
+#: associate_box.php:261 associate_box.php:371
+msgid "HomeGarden"
+msgstr ""
+
+#: associate_box.php:262 associate_box.php:372
+msgid "GiftCards"
+msgstr ""
+
+#: associate_box.php:263 associate_box.php:373
+msgid "PetSupplies"
+msgstr ""
+
+#: associate_box.php:264 associate_box.php:374
+msgid "Photo"
+msgstr ""
+
+#: associate_box.php:265 associate_box.php:375
+msgid "Appliances"
+msgstr ""
+
+#: associate_box.php:266 associate_box.php:376
+msgid "Apparel"
+msgstr ""
+
+#: associate_box.php:267 associate_box.php:377
+msgid "Lighting"
+msgstr ""
+
+#: associate_box.php:268 associate_box.php:378
+msgid "ForeignBooks"
+msgstr ""
+
+#: associate_box.php:269 associate_box.php:379
+msgid "Pantry"
+msgstr ""
+
+#: associate_box.php:270 associate_box.php:380
+msgid "MobileApps"
+msgstr ""
+
+#: associate_box.php:271 associate_box.php:381
+msgid "OfficeProducts"
+msgstr ""
+
+#: associate_box.php:272 associate_box.php:382
+msgid "KindleStore"
+msgstr ""
+
+#: associate_box.php:273 associate_box.php:383
+msgid "Luggage"
+msgstr ""
+
+#: associate_box.php:274 associate_box.php:384
+msgid "Jewelry"
+msgstr ""
+
+#: associate_box.php:275 associate_box.php:385
+msgid "Industrial"
+msgstr ""
+
+#: associate_box.php:285 associate_box.php:392
+msgid "SearchIndex: "
+msgstr ""
+
+#: associate_box.php:339
+msgid "<b>Search for Keyword:</b>"
+msgstr ""
+
+#: associate_box.php:342
+msgid "Keyword"
+msgstr ""
+
+#: associate_box.php:349
+msgid "All"
+msgstr ""
+
+#: associate_box.php:449
+msgid "<b>Search for Similarity:</b>"
+msgstr ""
+
+#: associate_box.php:456
+msgid "Similar Articles to ASIN"
+msgstr ""
+
+#: associate_box.php:532
+msgid ""
+"You forgot to set an ASIN with 'Search for ASINs'. Mode was set to 'No "
+"Amazon-Articles' therefore."
+msgstr ""
+
+#: associate_box.php:546
+msgid ""
+"You forgot to set a BrowseId with 'Items in BrowseNode'. Mode was set to 'No "
+"Amazon-Articles' therefore."
+msgstr ""
+
+#: associate_box.php:562
+msgid ""
+"You forgot to set a Keyword with 'Search for Keyword'. Mode was set to 'No "
+"Amazon-Articles' therefore."
+msgstr ""
+
+#: associate_box.php:577
+msgid ""
+"You forgot to set an ASIN with 'Search for Similarity'. Mode was set to 'No "
+"Amazon-Articles' therefore."
+msgstr ""
+
+#: associate_box.php:741
+msgid "<b>Data deleted.</b>"
+msgstr ""
+
+#: associate_box.php:751
+msgid "Standardhost"
+msgstr ""
+
+#: associate_box.php:762 associate_box.php:854
+msgid "Amazon Access Key"
+msgstr ""
+
+#: associate_box.php:772 associate_box.php:857
+msgid "Secret Amazon Access Key"
+msgstr ""
+
+#: associate_box.php:783
+msgid "Partner-ID"
+msgstr ""
+
+#: associate_box.php:792
+msgid "Partner-ID UK"
+msgstr ""
+
+#: associate_box.php:801
+msgid "Partner-ID US"
+msgstr ""
+
+#: associate_box.php:810
+msgid "Partner-ID FR"
+msgstr ""
+
+#: associate_box.php:819
+msgid "Partner-ID ES"
+msgstr ""
+
+#: associate_box.php:833
+msgid "Amazon Standard-Server:"
+msgstr ""
+
+#: associate_box.php:859
+msgid "Partner ID DE"
+msgstr ""
+
+#: associate_box.php:862
+msgid "Partner ID US"
+msgstr ""
+
+#: associate_box.php:864
+msgid "Partner ID UK"
+msgstr ""
+
+#: associate_box.php:866
+msgid "Partner ID FR"
+msgstr ""
+
+#: associate_box.php:868
+msgid "Partner ID ES"
+msgstr ""
+
+#: associate_box.php:871
+msgid "Save"
+msgstr ""
+
+#: associate_box.php:874
+msgid "Delete Cache"
+msgstr ""
+
+#: associate_box.php:887
+msgid "No files in cache."
+msgstr ""
+
+#: associate_box.php:889
+msgid " File in Cache "
+msgstr ""
+
+#: associate_box.php:891
+msgid " Files in Cache "
+msgstr ""
+
+#: associate_box.php:1227 associate_box.php:1288 associate_box.php:1348
+#: associate_box.php:1420 associatebox_widget.php:106
+#: associatebox_widget.php:159 associatebox_widget.php:214
+#: associatebox_widget.php:282
+msgid "<b>ERROR</b>"
+msgstr ""
+
+#: associate_box.php:1228 associate_box.php:1289 associate_box.php:1349
+#: associate_box.php:1421 associatebox_widget.php:107
+#: associatebox_widget.php:160 associatebox_widget.php:215
+#: associatebox_widget.php:283
+msgid "Please check your keys for the Amazon Product API."
+msgstr ""

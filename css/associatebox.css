@@ -1,0 +1,153 @@
+/* ADMIN */
+
+/* Abstand Buttons 'Save' & 'Delete Cache' */
+.abstandeinstellungen {
+margin-top:15px;
+}
+
+
+
+/* Box für Modus  'Keine Amazon Artikel' */
+.boxempty {
+margin-left:20px;
+background-color:#eeeeee;
+margin-top:5px;
+}
+
+.boxsim {
+margin-left:20px;
+background-color:#eeeeee;
+margin-top:5px;
+}
+
+/* Box für Modus  'Suchen nach ASINSs' */
+.boxasins {
+margin-left:20px;
+background-color:#dddddd;
+margin-top:5px;
+}
+
+/* Box für Modus  'Suchen nach ASINSs' */
+.boxbrowse {
+margin-left:20px;
+background-color:#eeeeee;
+margin-top:5px;
+}
+
+.boxkeyword {
+margin-left:20px;
+background-color:#dddddd;
+margin-top:5px;
+}
+/*  Radio-Butons fuer Modi */
+input[type='radio'].associatebox_art {
+margin-top:2px;
+float:left;
+}
+
+/* Abstand zwischen den Modus-Kaesten */
+.abstandmodi {
+height:15px;
+}
+
+/* Abstand Headline ueber Textarea 'Suchen nach ASINSs' */
+.abstandheadline {
+margin-top:10px;
+}
+
+/* Textarea 'Suchen nach ASINSs' */
+.associateboxtextarea {
+width:100%;
+height:100px;
+}
+
+/*Breite Select Amount */
+
+select.associatebox_amount {
+width:50px;
+}
+
+/* Breite Select Searchindex */
+.associateboxsearchindex {
+width:250px;
+}
+
+
+/* Delete Message in Admin Associatebox */
+.deletemessage {
+margin-top:5px;
+font-size:11px;
+}
+
+.gruenfett {
+color:#648d01;
+font-weight:bold;
+}
+/* WIDGET */
+
+.centerdata {
+text-align:center;
+}
+
+.centerdata2 {
+text-align:center;
+margin-top:10px;
+}
+
+.errorapi1 {
+text-align:center;
+}
+
+.errorapi2 {
+text-align:center;
+margin-top:10px;
+}
+
+.abstandhalter {
+height:5px;
+}
+
+.grosserabstand {
+height:25px;
+}
+
+
+/* Under Content */
+h5.associatebox_title {
+font-size: 1.1em;
+    font-weight: 600;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+msrgin-top:10px;
+margin-bottom:10px;
+}
+.itemsundertext {
+margin:0 auto;
+text-align:center;
+width:98%;
+/* background:#ff0000; */
+
+}
+
+
+
+.itemheader {
+text-align:center;
+
+
+margin:0 auto;
+}
+
+
+.item {
+display:inline-block;
+vertical-align:bottom;
+}
+
+.itemlast {
+display:inline-block;
+vertical-align:bottom;
+}
+
+
+
